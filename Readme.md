@@ -23,6 +23,8 @@ Interactive visualization dashboard for Sustainble Energy in Python with Panel.
 
 Panel is an open-source Python library designed to streamline the development of robust tools, dashboards, and complex applications entirely within Python. With a comprehensive philosophy, Panel integrates seamlessly with the PyData ecosystem, offering powerful, interactive data tables, visualizations, and much more, to unlock, visualize, share, and collaborate on your data for efficient workflows.
 
+https://github.com/manishkc104/co2-and-climate-change-webpanel-visualization/assets/43213617/2f912447-a352-44d5-bcef-b9fda583f1d1
+
 ## Built With
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
